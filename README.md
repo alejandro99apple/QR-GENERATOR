@@ -10,7 +10,7 @@ https://alejandro99apple.github.io/QR-GENERATOR/
 <tr>
 <td width="50%">
 <div align="center">
-<a href="https://alejandro99apple.github.io/Face_Detection" target="_blank"><img src="https://github.com/alejandro99apple/media_pipe_emotions/blob/main/emotion_processor/docs/images/capture.png"></a>
+<a href="https://alejandro99apple.github.io/Face_Detection" target="_blank"><img src="https://github.com/alejandro99apple/QR-GENERATOR/blob/master/QR-Generator.png"></a>
 </div>                                                                                     
 </td>
                                                           
