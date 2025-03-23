@@ -3,4 +3,15 @@
 
 https://alejandro99apple.github.io/QR-GENERATOR/
 
+# QR-GENERATOR
+## https://alejandro99apple.github.io/QR-GENERATOR/
 
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+<a href="https://alejandro99apple.github.io/Face_Detection" target="_blank"><img src="https://github.com/alejandro99apple/media_pipe_emotions/blob/main/emotion_processor/docs/images/capture.png"></a>
+</div>                                                                                     
+</td>
+                                                          
+</table>   
